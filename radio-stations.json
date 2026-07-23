@@ -46,6 +46,17 @@
       "name": "Bollywood and Beyond",
       "stream_url": "https://s6.yesstreaming.net/proxy/john1237?mp=/live",
       "is_custom": false
+    },
+    {
+      "name": "Kalika Fm",
+      "stream_url": "https://streaming.softnep.net:10828/;",
+      "is_custom": false
+    },
+    {
+      "name": "Kalika Fm",
+      "stream_url": "https://stream.zeno.fm/h527zwd11uquv",
+      "is_custom": false
+      
     }
   ]
 }
