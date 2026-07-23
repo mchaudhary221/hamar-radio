@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-07-24T00:00:00Z",
+  "stations": [
+    {
+      "name": "BBC Radio 1",
+      "stream_url": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
+      "is_custom": false
+    },
+    {
+      "name": "NPR News",
+      "stream_url": "https://npr-ice.streamguys1.com/live.mp3",
+      "is_custom": false
+    },
+    {
+      "name": "Classic FM",
+      "stream_url": "http://media-ice.musicradio.com/ClassicFMMP3",
+      "is_custom": false
+    },
+    {
+      "name": "SomaFM Groove Salad",
+      "stream_url": "https://ice1.somafm.com/groovesalad-256-mp3",
+      "is_custom": false
+    },
+    {
+      "name": "Radio Mirchi",
+      "stream_url": "https://stream.zeno.fm/wgaznsmt92quv",
+      "is_custom": false
+    },
+    {
+      "name": "Radio Hungama 90s",
+      "stream_url": "https://stream.zeno.fm/rm4i9pdex3cuv",
+      "is_custom": false
+    },
+    {
+      "name": "Radio Hungama Dil se",
+      "stream_url": "https://stream.zeno.fm/143d7gty24zuv",
+      "is_custom": false
+    },
+    {
+      "name": "Old Bollywood Hits",
+      "stream_url": "https://stream.zeno.fm/a2gyqzwpwfeuv",
+      "is_custom": false
+    },
+    {
+      "name": "Bollywood and Beyond",
+      "stream_url": "https://s6.yesstreaming.net/proxy/john1237?mp=/live",
+      "is_custom": false
+    }
+  ]
+}
